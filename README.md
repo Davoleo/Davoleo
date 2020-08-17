@@ -11,7 +11,7 @@ I also like playing games in my spare time.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Davoleo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoleo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoleo&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Davoleo/Davoleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
