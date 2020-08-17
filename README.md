@@ -8,7 +8,7 @@ I'm passionate about science, various music genres and anime.
 I also like playing games in my spare time.
 
 Personal Website: https://davoleo.net <br>
-Discord Server: https://discord.davoleo.net
+Discord Server: http://discord.davoleo.net
 
 ### Development Stats
 
