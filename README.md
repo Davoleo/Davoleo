@@ -7,7 +7,7 @@ I like learning new technologies and making use of them in many projects.
 I'm passionate about science, various music genres and anime.
 I also like playing games in my spare time.
 
-Contact: https://davoleo.net
+Personal Website: https://davoleo.net <br>
 Discord Server: https://discord.davoleo.net
 
 ### Development Stats
