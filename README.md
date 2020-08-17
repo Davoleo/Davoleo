@@ -7,6 +7,9 @@ I like learning new technologies and making use of them in many projects.
 I'm passionate about science, various music genres and anime.
 I also like playing games in my spare time.
 
+Contact: https://davoleo.net
+Discord Server: https://discord.davoleo.net
+
 ### Development Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Davoleo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
