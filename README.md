@@ -12,9 +12,9 @@ Discord Server: http://discord.davoleo.net
 
 ### Development Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Davoleo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Davoleo&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoleo&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoleo&theme=tokyonight&layout=compact)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-79-blue)
