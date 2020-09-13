@@ -2,8 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs on alternate days (i.e. Monday - Wednesday - Friday ...)
-    - cron: '0 2 * * 1/2'
+    # To run on alternate days (i.e. Monday - Wednesday - Friday...) [0 2 * * 1/2]
+    # Runs Every Day at 2AM
+    - cron: '0 2 * * *'
 
 jobs:
   update-readme:
