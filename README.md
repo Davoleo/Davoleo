@@ -1,7 +1,6 @@
 ### Hi there, I'm Davoleo!
 
-I am an 18 years old Italian developer who works on different projects.
-
+I'm an Italian developer who works on different projects.
 I like learning new technologies and making use of them in many projects.
 
 I'm passionate about science, various music genres and anime.
