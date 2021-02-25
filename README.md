@@ -1,13 +1,6 @@
 ### Hi there, I'm Davoleo!
 
-I'm an Italian developer who works on different projects.<br>
-I like learning new technologies and making use of them in many projects.
-
-I'm passionate about science, various music genres and anime.
-I also like playing games in my spare time.
-
-Personal Website: https://davoleo.net <br>
-Discord Server: http://discord.davoleo.net
+Personal Website: https://davoleo.net &ensp;&ensp; Discord Server: http://discord.davoleo.net
 
 ### Development Stats
 
