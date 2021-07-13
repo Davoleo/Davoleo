@@ -1,5 +1,3 @@
-### Hi there, I'm Davoleo!
-
 Personal Website: https://davoleo.net &ensp;&ensp; Discord Server: http://discord.davoleo.net
 
 ### Development Stats
