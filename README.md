@@ -1,4 +1,4 @@
-Personal Website: https://davoleo.net &ensp;&ensp; Discord Server: http://discord.davoleo.net  &ensp;&ensp;  ![Profile View Count](https://komarev.com/ghpvc/?username=Davoleo&style=plastic)
+Personal Website: https://davoleo.net &ensp;&ensp; Discord Server: http://discord.davoleo.net
 
 ### Development Stats
 
