@@ -4,7 +4,7 @@ Personal Website: https://davoleo.net &ensp;&ensp; Discord Server: http://discor
 
 General Stats             |  Language Stats
 :-------------------------:|:-------------------------:
-![Davoleo's github stats](https://github-readme-stats.vercel.app/api?username=Davoleo&count_private=true&show_icons=true&theme=tokyonight)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoleo&langs_count=10&theme=tokyonight&layout=compact)
+![Davoleo's github stats](https://github-readme-stats.vercel.app/api?username=Davoleo&count_private=true&show_icons=true&theme=tokyonight)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davoleo&langs_count=10&theme=tokyonight&layout=compact&hide=jupyter_notebook)
 <div align="center">
   <a href="https://wakatime.com/@Davoleo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Davoleo&layout=compact&theme=tokyonight&custom_title=Weekly%20Development%20Breakdown" />
